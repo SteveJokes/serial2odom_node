@@ -4,4 +4,5 @@ this is a ros node
 
 function:
 receive odom data through serial
-pubulish the odom message
+
+publish the odom message
